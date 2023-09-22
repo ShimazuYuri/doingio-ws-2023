@@ -25,7 +25,7 @@
 
 残りのタッチセンサー2つに、ピンヘッダを半田付けする。
 
-アクリル板(任意)を画像のようにカットしておく。
+アクリル板(任意)をsvgファイルのようにカットしておく。
 
 ### 接続
 CAD画像の通りに接続する。
@@ -35,6 +35,7 @@ CAD画像の通りに接続する。
 ![CAD画像.png](https://github.com/ShimazuYuri/doingio-ws-2023/blob/main/shimazu/CAD%E7%94%BB%E5%83%8F.png)
 
 アクリル板を使用する場合は、図のように取り付ける。
+![アクリル板.png](https://github.com/ShimazuYuri/doingio-ws-2023/blob/main/shimazu/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E6%9D%BF.png)
 
 ### arduino ide
 PCとarduino unoを接続する。
