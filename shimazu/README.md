@@ -12,7 +12,7 @@
 - ジャンパー線
 - USBケーブル
 
-![CAD画像.png](/Users/shimazuyuri/Documents/GitHub/doingio-ws-2023/shimazu)
+![CAD画像.png](https://github.com/ShimazuYuri/doingio-ws-2023/blob/main/shimazu/CAD%E7%94%BB%E5%83%8F.png)
 
 ## 操作方法
 
@@ -20,7 +20,7 @@
 左手でブレッドボード上のタッチセンサーを操作する。
 
 運指表
-![シ♭.png](/Users/shimazuyuri/Documents/GitHub/doingio-ws-2023/shimazu)
+![シ♭.png](https://github.com/ShimazuYuri/doingio-ws-2023/blob/main/shimazu/%E3%82%B7%E2%99%AD.png)
 
 ## 主な動作
 センサーをタッチしたまま圧力センサーに力をかけると、音が出る。
